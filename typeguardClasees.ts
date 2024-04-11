@@ -7,7 +7,7 @@ class Bird {
 class Fish {
     swim():void{
         console.log('Nadando');
-    }
+    } 
 }
 
 type UnknowPets = Fish | Bird;
